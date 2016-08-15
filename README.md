@@ -7,12 +7,11 @@ Install using the rmskin package. Next, goto the @Resources/Commands folder.
 You then need to add a program shortcut e.g. I right click firefox go "Create Shortcut" and rename to "firefox.lnk"
 Then copy to the @Resources/Commands folder and create a .bat file with the following arguments:
 
-google.bat
 ```
 START "" firefox.lnk https://www.google.com
 ```
 
-That will open firefox at googles homepage. Then in the skin you type in "google" and it will execute google.bat, which then runs firefox.
+That will open firefox at googles homepage. Save it as "google.bat" Then in the skin you type in "google" and it will execute google.bat, which then runs firefox.
 
 The skin comes with google.bat already, you just need to provide the program shortcut "firefox.lnk".
 
