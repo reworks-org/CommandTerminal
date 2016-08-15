@@ -19,3 +19,5 @@ Basically add a shortcut to the folder, then a batch file with:
 ```
 START "" <SHORTCUT NAME>.lnk <ANY PARAMATERS HERE>
 ```
+
+Original code and idea from: http://phantomghost1525.deviantart.com/art/Command-Prompt-Rainmeter-Skin-455644041
